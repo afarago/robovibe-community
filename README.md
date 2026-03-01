@@ -32,8 +32,7 @@ We use GitHub's built-in tools to manage community feedback. Here is how you can
 * If you're unsure if something is a bug or a feature request, start a Discussion first!
 
 ## Helpful Links
-* **[RoboVibe App](link-to-your-app)** - Start planning your next mission!
-* **[Documentation / Tutorials](link-to-docs-if-public)** - Learn the ins and outs of the platform.
+* **[RoboVibe App](https://robovibe.afarago.hu)** - Start planning your next mission!
 
 ---
 *By participating in this community, you agree to treat fellow roboticists, educators, and maintainers with respect. Happy mapping!*
