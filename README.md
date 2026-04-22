@@ -13,7 +13,8 @@ RoboVibe is an interactive, visual path-planning and strategy platform for mobil
 * **Interactive Path Planning:** A 1:1 scale interactive map canvas with smart waypoint editing, bezier curves, and collision detection.
 * **Physics & Analytics:** Real-time feedback on wheel slip, centrifugal forces, and efficiency metrics.
 * **3D & AR Visualization:** Instantly preview your mission in a 3D simulated environment, or use the AR Verifier to project your digital waypoints onto the real-world playing field.
-* **Code Generation:** Native Pybricks integration that allows you to generate and export Python code directly to your hardware.
+* **Code Generation & Device Connectivity:** Native Pybricks integration that allows you to generate and export Python code directly to your hardware. Connect to your hub over USB or Bluetooth (BLE) and supports both Pybricks firmware and standard LEGO HubOS firmware. Compatible with LEGO SPIKE, Robot Inventor, Technic Hubs, and EV3 (via Pybricks).
+* **Step-by-Step Debugging:** Run missions with real-time step-by-step debugging and tracking on your connected device, so you can trace and verify each waypoint as your robot executes.
 * **Strategy & Scoring:** Integrated score managers, mission badges, and score density heatmaps to pinpoint the most lucrative target areas.
 
 ## How to Participate
