@@ -20,19 +20,23 @@ RoboVibe is an interactive, visual path-planning and strategy platform for mobil
 
 We use GitHub's built-in tools to manage community feedback. Here is how you can get involved:
 
-### 💬 [GitHub Discussions](link-to-your-discussions-tab)
+### 💬 [GitHub Discussions](discussions)
 *This is our community forum. Head over to the Discussions tab to:*
 * **Q&A:** Ask "How do I do X?" or get help troubleshooting a specific path.
 * **Ideas:** Pitch new features, tools, or physics mechanics you'd love to see.
 * **Show and Tell:** Share screenshots, Pybricks scripts, or videos of your robot successfully executing a RoboVibe-planned mission!
 
-### 🐛 [GitHub Issues](link-to-your-issues-tab)
+### 🐛 [GitHub Issues](issues)
 *Did you find a bug? Head over to the Issues tab to report it.*
 * Please provide as much context as possible (e.g., your browser, the map you were using, and steps to reproduce the glitch).
 * If you're unsure if something is a bug or a feature request, start a Discussion first!
 
 ## Helpful Links
-* **[RoboVibe App](https://robovibe.afarago.hu)** - Start planning your next mission!
+* **[RoboVibe App](https://robovibe.afarago.hu)** — The main mission planning platform. Design precise paths for your differential drive robot on a 1:1 scale interactive map with waypoints, bezier curves, and collision detection.
+* **[AI & Machine Learning](https://robovibe.afarago.hu/ai)** — Explore built-in AI & ML models for recognizing voices, gestures, or objects — or train your own custom model.
+* **[Scoring View](https://robovibe.afarago.hu/score)** — Visualize missions and track your competition score in real-time. Pick a challenge map and monitor match progress.
+* **[Match Timer](https://robovibe.afarago.hu/timer)** — A full-screen competition countdown timer for running official match rounds.
+* **[Rules Quiz](https://robovibe.afarago.hu/quiz)** — Test your knowledge of competition rules. Questions are generated from scoring lines in FLL, WRO, and other challenge configurations.
 
 ---
 *By participating in this community, you agree to treat fellow roboticists, educators, and maintainers with respect. Happy mapping!*
