@@ -20,13 +20,13 @@ RoboVibe is an interactive, visual path-planning and strategy platform for mobil
 
 We use GitHub's built-in tools to manage community feedback. Here is how you can get involved:
 
-### 💬 [GitHub Discussions](discussions)
+### 💬 [GitHub Discussions](https://github.com/afarago/robovibe-community/discussions)
 *This is our community forum. Head over to the Discussions tab to:*
 * **Q&A:** Ask "How do I do X?" or get help troubleshooting a specific path.
 * **Ideas:** Pitch new features, tools, or physics mechanics you'd love to see.
 * **Show and Tell:** Share screenshots, Pybricks scripts, or videos of your robot successfully executing a RoboVibe-planned mission!
 
-### 🐛 [GitHub Issues](issues)
+### 🐛 [GitHub Issues](https://github.com/afarago/robovibe-community/issues)
 *Did you find a bug? Head over to the Issues tab to report it.*
 * Please provide as much context as possible (e.g., your browser, the map you were using, and steps to reproduce the glitch).
 * If you're unsure if something is a bug or a feature request, start a Discussion first!
